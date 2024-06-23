@@ -1,5 +1,5 @@
 Machine Learning Algorithms Applied:
-
+ 
  - SVM
  - Bagging
  - Gradient Boosting Classifier 
